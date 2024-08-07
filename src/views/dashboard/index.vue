@@ -2,7 +2,7 @@
   <div class="dashboard-container" style="margin-top: 20px;">
     <el-row style="margin-left: 20px; margin-right: 20px;" :gutter="10">
       <el-col :span="12"><div class="grid-content bg-purple">
-        <user-component username="Hiệp" :shops="shops_hiep" backgroundimagelink="https://wpimg.wallstcn.com/577965b9-bb9e-4e02-9f0c-095b41417191" />
+        <user-component username="Julio" :shops="shops_hiep" backgroundimagelink="https://wpimg.wallstcn.com/577965b9-bb9e-4e02-9f0c-095b41417191" />
       </div></el-col>
       <el-col :span="12"><div class="grid-content bg-purple">
         <user-component username="Long" :shops="shops_long" backgroundimagelink="https://images.hcmcpv.org.vn/res/news/2024/02/24-02-2024-ve-su-dung-co-dang-va-hinh-anh-co-dang-cong-san-viet-nam-A3C3304C.jpg" />
